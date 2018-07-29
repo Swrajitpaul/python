@@ -476,3 +476,100 @@ runfile('C:/Users/swrajit/.spyder-py3/permutationsOfint.py', wdir='C:/Users/swra
 
 ## ---(Sat Jul  7 13:33:42 2018)---
 runfile('C:/Users/swrajit/.spyder-py3/reverse.py', wdir='C:/Users/swrajit/.spyder-py3')
+
+## ---(Tue Jul 17 20:27:57 2018)---
+insertionSort([2,3,333,3])
+print(insertionSort)
+in = insertionSort()
+insertionSort()
+
+## ---(Thu Jul 19 10:59:07 2018)---
+runfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+debugfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+runfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+debugfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+runfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+debugfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+t = '1 +  111'
+t.split()
+t
+ls = t.split()
+ls
+t
+runfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+ls = ['(', '2',')']
+ls
+ls.reverse()
+ls
+t
+t = t.split()
+ls
+t
+t = '3+4'
+t
+t = t.split()
+t
+runfile('C:/Users/swrajit/.spyder-py3/calculator.py', wdir='C:/Users/swrajit/.spyder-py3')
+ls = []
+ls.pop()
+
+## ---(Sat Jul 21 12:50:13 2018)---
+ls = [i for i in range(10)]
+ls
+ls = [1,22,3] & ls
+msg = "Numbers: {0} {1} {2}"
+ms
+msg
+msg.format
+help(str.format)
+lst
+lst = [i*5 for i in range(10)]
+ls
+lst
+if any([i > 5 for i in lst])
+if any([i > 5 for i in lst]):
+    print(i)
+    
+if any([i > 5 for i in lst]):
+    print(True)
+    
+if all([i > 5 for i in lst]):
+    print(True)
+    
+if all([i > 4 for i in lst]):
+    print(True)
+    
+if all([i > -1 for i in lst]):
+    print(True)
+    
+if all([i > -1 for i in lst]):
+    print(True)
+    
+for i in enumerate(lst):
+    print(v)
+    
+for i in enumerate(lst):
+    print(i)
+    
+
+## ---(Sun Jul 22 21:04:54 2018)---
+runfile('C:/Users/swrajit/.spyder-py3/permutationsOfStringstwo.py', wdir='C:/Users/swrajit/.spyder-py3')
+
+## ---(Sun Jul 22 21:04:54 2018)---
+runfile('C:/Users/swrajit/.spyder-py3/permutationsOfStrings.py', wdir='C:/Users/swrajit/.spyder-py3')
+runfile('C:/Users/swrajit/.spyder-py3/mmm.py', wdir='C:/Users/swrajit/.spyder-py3')
+runfile('C:/Users/swrajit/.spyder-py3/permutationsOfStringstw.py', wdir='C:/Users/swrajit/.spyder-py3')
+
+## ---(Fri Jul 27 20:43:37 2018)---
+runfile('C:/Users/swrajit/Downloads/hand.py', wdir='C:/Users/swrajit/Downloads')
+nums = [55, 44, 33, 22, 11]
+
+if all([i > 5 for i in nums]):
+   print("All larger than 5")
+
+if any([i % 2 == 0 for i in nums]):
+   print("At least one is even")
+   
+if all([i for i in nums]):
+    print(i)
+    
